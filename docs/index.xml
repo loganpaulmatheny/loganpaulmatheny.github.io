@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Logan Matheny</title>
-    <link>http://localhost:1313/</link>
+    <link>https://loganpaulmatheny.github.io/</link>
     <description>Recent content on Logan Matheny</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jul 2024 18:38:50 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loganpaulmatheny.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why you&#39;re not accomplishing your goals and what to do instead</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://loganpaulmatheny.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jul 2024 18:38:50 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://loganpaulmatheny.github.io/posts/my-first-post/</guid>
+      <description>spell wrong</description>
     </item>
   </channel>
 </rss>
