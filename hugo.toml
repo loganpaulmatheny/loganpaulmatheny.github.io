@@ -1,0 +1,6 @@
+baseURL = 'https://loganapulmatheny.github.io'
+languageCode = 'en-us'
+title = 'Logan Matheny'
+theme        = "PaperMod"
+paginate     = 10
+publishDir = "docs"
