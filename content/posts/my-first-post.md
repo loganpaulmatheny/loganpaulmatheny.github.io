@@ -1,5 +1,5 @@
 +++
-title = "Why you aren't achieving your goals aren't working and what to do instead"
+title = "Multiple relationships with goals don't work, try goal monogamy"
 date = 2024-07-02
 draft = true
 +++
@@ -8,4 +8,10 @@ I've been wanting to start a blog for awhile, it's been one of my goals. Unfortu
 
 There are a lot of things I might lay blame or point to reasons why it's been hard to accomplish my goals or institute habits. Note - I'll be referring to habits and goals interchangeably. We had our son in February, and my fiances recovery was somewhat challenging. I finished my coding bootcamp earlier in the year. Or perhaps I am just still 'chilling out' after my time in the Army. Or perhaps there's something more fundamental about why I've been unsuccessful thus far.
 
-Enter James Clear and his immensely popular book, <u>Atomic Habits</u>. I'd started reading the book numerous times in the past, but never seemed to finish it. I remember thinking that a lot of the information in the book felt common sense. Well this time, I re-read his observation that habits are so powerful because of
+Enter James Clear and his immensely popular book, <u>Atomic Habits</u>. I'd started reading the book numerous times in the past, but never seemed to finish it. I remember thinking that a lot of the information in the book felt common sense. Well this time, something clicked. I re-read his observation that habits are so powerful because of their power to compound, like compounding interest in investing, and another article on creating creative work. The potential culprit stood out to me like the two additional pounds staring back at me on the scale.
+
+## The Helsinki Bus Station: Accumulating goal capital
+
+In Jamees' article entitled, _The Proven Path to Doing Unique and Meaningful Work_, he discusses a graduation
+
+## Goal Monogamy: Strong relationships with your goals make for a better life
